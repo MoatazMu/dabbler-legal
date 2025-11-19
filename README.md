@@ -10,7 +10,7 @@ This Privacy Policy describes how **Dabbler** ("we", "us", or "our") collects, u
 
 - App name: **Dabbler**
 - Developer: **Moataz Mustapha** (individual developer)
-- Contact email: **your-email@example.com**
+- Contact email: **dabbler.sports@gmail.com**
 
 ## 2. Information we collect
 
