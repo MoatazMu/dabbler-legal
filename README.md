@@ -55,7 +55,7 @@ We keep your information only as long as necessary to provide the App and for le
 You can request deletion of your account and associated data by:
 
 - Using the in-app "Delete account" option (if available), or
-- Contacting us at **your-email@example.com**.
+- Contacting us at **dabbler.sports@gmail.com**.
 
 After your request, we will delete or anonymize your data where legally and technically possible.
 
