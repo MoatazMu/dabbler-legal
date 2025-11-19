@@ -75,7 +75,7 @@ Depending on your location, you may have rights to:
 - Request correction of inaccurate information.
 - Request deletion of your data, subject to legal retention requirements.
 
-To exercise these rights, contact us at **your-email@example.com**.
+To exercise these rights, contact us at **dabbler.sports@gmail.com**.
 
 ## 11. Changes to this policy
 
